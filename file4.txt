@@ -1,2 +1,3 @@
-file4
-这是vscode 修改的另一个文件
+version https://git-lfs.github.com/spec/v1
+oid sha256:ba863094698ac18fee0e0a6b9bd471faa971be34010e896983598fa05432ea59
+size 46
